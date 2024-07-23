@@ -1,0 +1,30 @@
+/* Index.css */
+.Torneo {
+    padding-top: 1rem;
+    width: 80%;
+  }
+  
+  .categorias {
+   
+    display: flex;
+    justify-content: center;
+
+    gap: 10rem; 
+  }
+  
+  .categoria {
+    width: 20%!important;
+  
+    padding: 0.5rem 1rem;
+    background: #09537ecc;
+    border-radius: 0.5rem;
+   
+  }
+  .categoria:hover {
+    width: 21%!important;
+  
+    padding: 0.6rem 1rem;
+    background: #09537ecc;
+    border-radius: 0.6rem!important;
+   
+  }
